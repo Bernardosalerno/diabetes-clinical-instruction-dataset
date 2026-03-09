@@ -5,11 +5,11 @@
 # 🩺 Diabetes Clinical Instruction Dataset (745 Samples)
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![Purchase](https://img.shields.io/badge/Buy-Full%20Dataset-green)](https://diabetes-data.lemonsqueezy.com/checkout/buy/0bdf37d0-b0d1-43ca-90d5-0eb845851ab5?discount=0)
+[![Purchase](https://img.shields.io/badge/Buy-Full%20Dataset-green)](https://bit.ly/dataset_full_diabetes)
 
 > **🚀 SPECIAL LAUNCH OFFER: The first 50 copies are available for just €39. After that, the price will increase to €59.**
 > 
-> **🛒 [CLICK HERE TO PURCHASE THE FULL DATASET](https://diabetes-data.lemonsqueezy.com/checkout/buy/0bdf37d0-b0d1-43ca-90d5-0eb845851ab5?discount=0)**
+> **🛒 [CLICK HERE TO PURCHASE THE FULL DATASET](https://bit.ly/dataset_full_diabetes)**
 
 ---
 
