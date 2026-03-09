@@ -1,7 +1,3 @@
-# diabetes-clinical-instruction-dataset
-🩺 Medical-Grade Diabetes Instruction Dataset (745 Samples). Premium, GPT-4o audited SFT dataset for fine-tuning LLMs on clinical diabetology. 100% synthetic, noise-free, and medically validated. [🛒 FULL DATASET (745 Samples): https://diabetes-data.lemonsqueezy.com/checkout/buy/0bdf37d0-b0d1-43ca-90d5-0eb845851ab5?discount=0
-
-
 # 🩺 Diabetes Clinical Instruction Dataset (745 Samples)
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
