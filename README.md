@@ -10,7 +10,7 @@
 ---
 
 ## 💎 Dataset Overview
-This repository contains a **50-sample preview** of the **Diabetes-Clinical-Instruction-ENG** dataset. The full version is a premium, medically-validated asset containing **745 high-quality clinical instruction pairs** focused on diabetology and glycemic management.
+This repository contains a **20-sample preview** of the **Diabetes-Clinical-Instruction-ENG** dataset. The full version is a premium, medically-validated asset containing **745 high-quality clinical instruction pairs** focused on diabetology and glycemic management.
 
 ## 🛠 Why This Dataset?
 * **GPT-4o Audited:** Every sample passed a rigorous clinical accuracy check.
@@ -19,7 +19,7 @@ This repository contains a **50-sample preview** of the **Diabetes-Clinical-Inst
 
 ## 📊 Quick Stats
 * **Full Samples:** 745
-* **Preview Samples:** 50 (available in this repo)
+* **Preview Samples:** 20 (available in this repo)
 * **Language:** English
 * **Format:** `{"instruction": "...", "input": "...", "output": "..."}`
 
